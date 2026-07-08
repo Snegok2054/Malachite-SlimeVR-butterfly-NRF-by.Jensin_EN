@@ -229,7 +229,7 @@ Before assembling the tracker completely, verify the following:
 
 ---
 
-## itsJensin
+## [itsJensin](https://github.com/itsJensin)
 
 - 3D modeling
 - Case design
