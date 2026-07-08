@@ -153,7 +153,7 @@ This was by far the most challenging part of the entire build.
 
 You'll need the following software:
 
-### SmolSlimeConfigurator (SSC)
+### [SmolSlimeConfigurator (SSC)](https://github.com/ICantMakeThings/SmolSlimeConfigurator/tree/main?tab=readme-ov-file)
 
 Used for:
 
