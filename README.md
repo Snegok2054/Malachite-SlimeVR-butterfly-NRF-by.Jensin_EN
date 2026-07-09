@@ -13,6 +13,7 @@
 - [🧰 Required Materials](#-required-materials)
 - [🔧 Tools](#-tools)
 - [🖨️ Printing the Case](#️-printing-the-case)
+- [🪡 Sewing Strap](https://github.com/Snegok2054/Malachite-SlimeVR-butterfly-NRF-by.Jensin_EN#-sewing-strap)
 - [🔌 Soldering](#-soldering)
 - [💻 Firmware Installation](#-firmware-installation)
 - [✅ Function Test](#-function-test)
