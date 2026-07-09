@@ -142,7 +142,7 @@ Simply:
 # 🪡 Sewing Strap
 
 ## We cut the required number of straps of the required length
->*(Расположение трекеров можете посмотреть в софте SlimeVR)*
+>*(You can view the location of the trackers in the SlimeVR software.)*
 
 ## We scorch the ends so that the straps do not fluff
 <img width="2560" height="1215" alt="y3T4tMG_LVLqBQYx1nWbwtsXEmMVPN6toz46hCMsqMB2w4NiKQfy06ude4UrgFSEDOulrklT21wuZQ2gDXGnMQuz" src="https://github.com/user-attachments/assets/e0c72431-c454-4f86-afc1-e38721b8ba68" />
