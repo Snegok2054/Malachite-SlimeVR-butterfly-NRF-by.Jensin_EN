@@ -139,6 +139,43 @@ Simply:
 
 ---
 
+# 🪡 Sewing Strap
+
+## We cut the required number of straps of the required length
+>*(Расположение трекеров можете посмотреть в софте SlimeVR)*
+
+## We scorch the ends so that the straps do not fluff
+<img width="2560" height="1215" alt="y3T4tMG_LVLqBQYx1nWbwtsXEmMVPN6toz46hCMsqMB2w4NiKQfy06ude4UrgFSEDOulrklT21wuZQ2gDXGnMQuz" src="https://github.com/user-attachments/assets/e0c72431-c454-4f86-afc1-e38721b8ba68" />
+
+## We thread the belt as shown in the photo
+<img width="2560" height="1109" alt="cKdN3GMzgc_l1ebIV0I79vQ-arx-Q_xZlx25gda4rHTl53xAPOIxhW1_Oh2zc4tjdRTlawKSHHo8g1oUZtxZee4q" src="https://github.com/user-attachments/assets/a2f77e38-895c-438e-9ff8-801e3d227318" />
+
+## And we sew it. It should turn out like this
+<img width="2560" height="1385" alt="-KGbGSolIeY92IAmkcOYHnFcdgYZ969AVWoKmeNcH7Ktw5pC_4w0Rq7-_QU3OBAsdNzlwWBXinQR0kQEWAv9mdic" src="https://github.com/user-attachments/assets/eedf6130-d4da-401a-b996-0e5aa95cce34" />
+
+
+## We thread one of the parts of the swallow as in the photo.
+<img width="2560" height="1227" alt="SyZeXxIdC8ZUTsQgwde07MwIuZt_h9UHVgdZSPAlJ8CRoUEaG7mhuIZlIZWH_eaMzyI05XTFCnEdagPeriF4-de5" src="https://github.com/user-attachments/assets/0d8648b3-d5ab-457f-ac2b-6c7b4b02caa3" />
+
+
+## We drive it right up to the regulator as in the photo
+<img width="1920" height="2560" alt="wl2P6CzsVXmvVIzgOzDiRVwiKuqabrsclgcsGOHqBLmyl2lXoN1YbCBU7YRULHU9ktjjHzMuKzIz4RolyRX515El" src="https://github.com/user-attachments/assets/579267a2-5a49-4773-b712-00a57e56aa3c" />
+
+
+## Then we thread the Free end of the belt into the regulator
+<img width="2560" height="1243" alt="Y_YZt_pFJbzYjt00edKEzPy4oL47cQv5HMwAUtoIOYx9e9nq3YJy925gXTD8UukXojsXKELx1oJ3zp1ARIIqCCLV" src="https://github.com/user-attachments/assets/12ae72f4-32a4-4735-bacb-5356378a20b7" />
+
+
+## We try on the second part of the swallow and sew it
+<img width="2560" height="1259" alt="Fz6fd-qzPimQiZDT4KocnytDDIOlN4Ex1UdvRxafme-UsyvEOR2Cd0y208s0_EMs9_mIqIlohCuSCPSZtYaUM-tQ" src="https://github.com/user-attachments/assets/e35a1331-50e2-4519-86ac-e482c502c75b" />
+
+
+# Congratulations, your belt is ready! We do this the right number of times.
+<img width="1920" height="2560" alt="rDI6puFXpZfY8mgi_SOeIOVgbmyzjESMNKTNR8nULYsud6zxAWut83PL6xczsUEiX7Sr7UXENXTROC6yMwKYIjcz" src="https://github.com/user-attachments/assets/ddf32116-c68e-4755-9c17-f079a8253478" />
+
+
+---
+
 # 🔌 Soldering
 
 ## 🎥 Video
